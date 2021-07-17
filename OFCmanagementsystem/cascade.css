@@ -1,0 +1,21 @@
+.btn {
+  padding: 5px 5px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 9px pink;
+  transition: background-color 1s;
+}
+
+.btn:hover {background-color: #8A2BE2}
+
+.btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
