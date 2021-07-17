@@ -2,6 +2,7 @@
 A twenty four-core underground OFC management system( dominantly in PHP) from scratch, for OTDR(Optical time-domain reflectometer) fibre loss parameters data.
 
 use XAMPP server, start apache and mysql:
+
 ![image](https://user-images.githubusercontent.com/75139237/126043936-aa28b5e1-ecb6-4b0c-ae7a-be42a22bcbe9.png)
 
 put the folder given(check file) inside disk C>xampp>htdocs:
