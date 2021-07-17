@@ -1,6 +1,8 @@
 # underground-OFC-management-system-dominantly-PHP-
 A twenty four-core underground OFC management system( dominantly in PHP) from scratch, for OTDR(Optical time-domain reflectometer) fibre loss parameters data.
 
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
+
 use XAMPP server, start apache and mysql:
 
 ![image](https://user-images.githubusercontent.com/75139237/126043936-aa28b5e1-ecb6-4b0c-ae7a-be42a22bcbe9.png)
@@ -45,17 +47,25 @@ FUNCTIONALITY :
 
 front page:
 
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
+
 ![image](https://user-images.githubusercontent.com/75139237/126044564-27786178-80e1-434a-99dc-f483092b75d3.png)
+
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
 
 ![image](https://user-images.githubusercontent.com/75139237/126044608-7abed41b-33ad-4efc-950c-8f4b44f059a8.png)
 
 login/logout:
+
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
 
 ![image](https://user-images.githubusercontent.com/75139237/126044673-e89eda79-329a-4acc-89ce-4b62f9512b90.png)
 
 ![image](https://user-images.githubusercontent.com/75139237/126044804-827b3989-a60c-4d2c-9b62-27b35b957ec5.png)
 
 main page:
+
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
 
 ![image](https://user-images.githubusercontent.com/75139237/126044885-dc824c32-0fd6-4e38-b75d-bf262b0fb08b.png)
 
@@ -103,7 +113,7 @@ alteration:
 
 ![image](https://user-images.githubusercontent.com/75139237/126045299-bf2d7b7c-85cc-49af-b483-01f3a4f02b6f.png)
 
-![image](https://user-images.githubusercontent.com/75139237/126045309-dd9ab8f5-d33b-4051-9448-a07770128d27.png)
+![image](https://user-images.githubusercontent.com/75139237/126046097-23d43a33-3bbe-4ddc-8127-177b23909c25.png)
 
 ![image](https://user-images.githubusercontent.com/75139237/126045317-b6455038-78fe-4291-9b29-1a4fdae20551.png)
 
@@ -127,11 +137,15 @@ importing following excel file.
 
 ![image](https://user-images.githubusercontent.com/75139237/126045434-92d88a69-c8c2-446e-9626-d6bb0a407b85.png)
 
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
+
 ![image](https://user-images.githubusercontent.com/75139237/126045483-69d61d4e-da1e-47ee-9018-c81ceb70174b.png)
 
 ![image](https://user-images.githubusercontent.com/75139237/126045494-a65ed73c-7b70-427c-9381-3693b82c78f9.png)
 
 the database got populated from excel sheet inserted.
+
+SOME PARTS OF THE FOLLOWING IMAGES ARE BLURRED, TO MAINTAIN CONFIDENTIALITY OF THE COMPANY FOR WHOM THE MANAGEMENT SYSTEM WAS DESIGNED
 
 ![image](https://user-images.githubusercontent.com/75139237/126045522-18fbcfb6-d0d8-468d-bab8-0771f1ad73d2.png)
 
